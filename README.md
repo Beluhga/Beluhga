@@ -6,7 +6,5 @@
 - um pouco de  Node.js e MySql
 
 - 📫 Como me encontrar michaelfernando@live.com
-  https://www.linkedin.com/in/michael-albuquerque-9443b21b9/
-  +55 (81) 997898030
-
+  
 
