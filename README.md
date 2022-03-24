@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Beluhga
-- 👀 Tenho interesse em ser um Dev Front-End ou Mobile
+- 👀 Tenho interesse em ser um Dev Mobile ou Front-end
 - 🌱 React e React - Native
 - 💞️ Estou procurando colaborar em tudo o que eu aprender
 - Javascript, ReactJS, Bootstrap e React-Native.
