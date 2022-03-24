@@ -5,6 +5,10 @@
 - Javascript, ReactJS, Bootstrap e React-Native.
 - um pouco de  Node.js e Postgresql
 
-- 📫 Como me encontrar michaelfernando@live.com
+- 📫 Como me encontrar:
+-  michaelfernando@live.com
+-  https://www.linkedin.com/in/michael-albuquerque-9443b21b9/
+-  +55 81 997898030
+- 
   
 
