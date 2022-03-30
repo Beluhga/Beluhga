@@ -7,7 +7,8 @@
 
 - 📫 Como me encontrar:
 -  michaelfernando@live.com
--  https://www.linkedin.com/in/michael-albuquerque-9443b21b9/
+-  www.linkedin.com/in/michael-albuquerque
+
 -  +55 81 997898030
 - 
   
