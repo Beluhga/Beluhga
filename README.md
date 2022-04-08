@@ -1,7 +1,9 @@
 
 ## Ola eu sou Michael Albuquerque
 📱 - Estou focado em Desenvolvimento Mobile
+
 👨‍💻 - Aprendendo PostgreSQL
+
 🏳️‍🌈 - ele/dele
 
 <div align="center">
