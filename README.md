@@ -1,5 +1,5 @@
 
-## Ola eu sou Michael Albuquerque
+## Ola, eu sou Michael Albuquerque
 📱 - Estou focado em Desenvolvimento Mobile
 
 👨‍💻 - Aprendendo Kotlin
