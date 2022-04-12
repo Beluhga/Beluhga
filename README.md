@@ -2,7 +2,7 @@
 ## Ola, eu sou Michael Albuquerque
 📱 - Estou focado em Desenvolvimento Mobile
 
-👨‍💻 - Aprendendo Kotlin
+👨‍💻 - Aprendendo TypeScript
 
 🏳️‍🌈 - ele/dele
 
