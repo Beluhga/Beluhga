@@ -1,6 +1,6 @@
 
 ## Ola, eu sou Michael Albuquerque
-📱 - Estou focado em Desenvolvimento Mobile
+📱 - Estou focado em Desenvolvimento Mobile e Front-End
 
 👨‍💻 - Aprendendo TypeScript
 
