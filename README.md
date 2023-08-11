@@ -2,7 +2,7 @@
 ## Ola, eu sou Michael Albuquerque
 📱 - Estou focado em Desenvolvimento Mobile e Front-End
 
-👨‍💻 - Aprendendo TypeScript
+👨‍💻 - Focado em React.Js e React-Native
 
 🏳️‍🌈 - ele/dele
 
