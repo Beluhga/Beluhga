@@ -1,6 +1,6 @@
 
 ## Ola, eu sou Michael Albuquerque
-📱 - Estou focado em Desenvolvimento Mobile e Front-End
+📱 - Estou focado em Desenvolvimento Front-end
 
 👨‍💻 - Focado em React.Js e React-Native
 
